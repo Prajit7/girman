@@ -23,6 +23,12 @@ Girman is a Flutter application designed for managing and storing user contact i
 ### Search Results
 ![Search Results](assets/fetch.jpg)
 
+### DarkMode and Settings
+![Dark Mode Results](assets/dark.jpeg)
+![Settings Results](assets/settings.jpeg)
+
+
+
 ## Home Screen
 
 The home screen serves as the central hub for users. Key features include:
